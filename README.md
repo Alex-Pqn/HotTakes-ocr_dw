@@ -1,12 +1,9 @@
-This is the back & front end part of OpenClassrooms project 6.
+This is the backend part of OpenClassrooms project 6.
 
 / Installation /
 Clone this repo. From within the project folder, run 'npm install'. You can then run the server with node server. The server should run on localhost with default port 3000. If the server runs on another port for any reason, this is printed to the console when the server starts (ex: Angular Live Development Server is listening on localhost:3000, open your browser on http://localhost:3000/)
 
-/ Front start /
-You can start the front angular part with 'ng serve' in frontend folder.
-
-/ Back start /
+/ Start /
 You can start the back express part with 'nodemon server' in backend folder.
 
 / .env explenations /
