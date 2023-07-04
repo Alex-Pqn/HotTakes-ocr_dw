@@ -8,6 +8,7 @@ So Pekocko est une entreprise familiale de 10 salariés. Son activité principal
 
 Les utilisateurs pourront aussi se créer un compte, se connecter avec leurs identifiants ainsi que modifier ou supprimer leurs propres sauces.
 
+#### Objectifs
 - Création d'une API REST avec le framework Express sous Node.js
 - Création d'une base de données MongoDB
 - Opérations de l'API sur la base de données grâce à l'ODM Mongoose
@@ -19,6 +20,8 @@ Les utilisateurs pourront aussi se créer un compte, se connecter avec leurs ide
   - formatter les images enregistrées sur le serveur
 - Architecture des dossiers et fichiers respectée (middlewares, controllers, models, routes)
 - Standards OWASP appliqués
+
+---
 
 ### The front-end app can be installed [here](https://github.com/OpenClassrooms-Student-Center/Web-Developer-P6)
 
