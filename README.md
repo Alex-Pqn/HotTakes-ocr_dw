@@ -4,9 +4,9 @@
 
 #### Contexte du projet
 
-So Pekocko est une entreprise familiale de 10 salariés. Son activité principale est la création de sauces piquantes dont la composition est tenue secrète. Forte de son succès, l’entreprise souhaite se développer et créer une application web, dans laquelle les utilisateurs pourront ajouter leurs sauces préférées et liker ou disliker les sauces proposées par les autres.
+So Pekocko est une entreprise familiale de 10 salariés. Son activité principale est la création de sauces piquantes dont la composition est tenue secrète. Forte de son succès, l’entreprise souhaite se développer et créer une application web dans laquelle les utilisateurs pourront ajouter leurs sauces préférées et liker ou disliker les sauces proposées par les autres.
 
-Les utilisateurs pourront aussi se créer un compte, se connecter ainsi que modifier ou supprimer leurs propres sauces.
+Les utilisateurs pourront aussi se créer un compte, se connecter avec leurs identifiants ainsi que modifier ou supprimer leurs propres sauces.
 
 - Création d'une API REST avec le framework Express sous Node.js
 - Création d'une base de données MongoDB
