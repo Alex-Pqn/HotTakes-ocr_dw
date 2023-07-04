@@ -23,8 +23,6 @@ Les utilisateurs pourront aussi se créer un compte, se connecter avec leurs ide
 
 ---
 
-### The front-end app can be installed [here](https://github.com/OpenClassrooms-Student-Center/Web-Developer-P6)
-
 ### Install
 
 Clone this repo. From within the project folder, run `npm install`. You can then run the server with node server. The server should run on localhost with default port `3000`. If the server runs on another port for any reason, this is printed to the console when the server starts (ex: Listening on port 3000)
@@ -32,6 +30,8 @@ Clone this repo. From within the project folder, run `npm install`. You can then
 ### Start
 
 You can start the back express part with `npm run start` in backend folder.
+
+### The front-end app can be installed [here](https://github.com/OpenClassrooms-Student-Center/Web-Developer-P6)
 
 #### .env
 
