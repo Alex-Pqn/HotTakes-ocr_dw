@@ -15,9 +15,9 @@ Les utilisateurs pourront aussi se créer un compte, se connecter avec leurs ide
 - Respect des opérations CRUD
 - Mot de passe hashé avec Bcrypt
 - Models de données pour formatter et valider les données entrantes
-- Mise en place de middlewares afin 
-  - d'authentifier les utilisateurs
-  - formatter les images enregistrées sur le serveur
+- Mise en place de middlewares
+  - Authentification des utilisateurs
+  - Formattage des images enregistrées sur le serveur
 - Architecture des dossiers et fichiers respectée (middlewares, controllers, models, routes)
 - Standards OWASP appliqués
 
