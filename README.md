@@ -1,3 +1,5 @@
+![Groupomania Icon](/assets/HotTakes%20logo.png) ![Groupomania Icon](/assets/HotTakes%20logo%20reverse.png)
+
 ## Construisez une API sécurisée pour une application d'avis gastronomiques - HotTakes
 
 ### P6 - OpenClassrooms "Développeur Web"
