@@ -48,5 +48,4 @@ In a real project, the .env is on server-side and you can't access at this url.
 <br/>
 <br/>
 <br/>
-<br/>
 ![Site complet](/assets/HotTakes%202%20P6%20OCR%20DW.png)
