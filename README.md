@@ -33,11 +33,16 @@ You will need to have Node and `npm` installed locally on your machine.
 
 ### Install
 
-Clone this repo. From within the project folder, run `npm install`.
+```
+npm install
+```
 
 ### Start
 
-You can then start it with `npm run start`. The server should run on localhost with default port `3000`. If the server runs on another port for any reason, this is printed to the console when the server starts (ex: Listening on port 3000)
+The API should run on `localhost` with default port `3000`. If the server runs on another port for any reason, this is printed to the console when the server starts, e.g. `Listening on port 3001`.
+```
+npm run start
+```
 
 ### The front-end app can be installed [here](https://github.com/OpenClassrooms-Student-Center/Web-Developer-P6)
 
