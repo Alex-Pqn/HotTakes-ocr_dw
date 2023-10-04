@@ -44,7 +44,7 @@ The API should run on `localhost` with default port `3000`. If the server runs o
 npm run start
 ```
 
-### The front-end app can be installed [here](https://github.com/OpenClassrooms-Student-Center/Web-Developer-P6)
+### The front-end app can be installed [here](https://github.com/Alex-Pqn/HotTakes-frontend-ocr_dw)
 
 #### .env
 
