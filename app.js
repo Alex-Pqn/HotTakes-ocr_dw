@@ -10,7 +10,7 @@ const saucesRoute = require('./routes/sauces');
 
 // database connection
 mongoose
-  .connect(process.env.MONGODB_URL, {
+  .connect(process.env.DATABASE_URL || 'mongodb://0.0.0.0:27017/HotTakes', {
     useNewUrlParser: true,
     useUnifiedTopology: true,
   })
