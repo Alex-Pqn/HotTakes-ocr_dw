@@ -38,17 +38,13 @@ Vous trouvez effectivement [la note de cadrage](./assets/Note%20de%20cadrage.pdf
 - Architecture des dossiers et fichiers respectée (middlewares, controllers, models, routes)
 - Standards OWASP appliqués
 
----
-
-### Prerequisites
+## Prerequisites
 
 - You will need to have Node and `npm` installed locally on your machine.
 - This project uses a local MongoDB database. [Download MongoDB Community Server](https://www.mongodb.com/try/download/community)
 
 > [!WARNING]  
 > The [frontend](https://github.com/Alex-Pqn/HotTakes-frontend-ocr_dw) must also be installed in order to launch this project.
-
----
 
 ## Project setup
 
@@ -73,9 +69,7 @@ npm run start
 A .env file is present in this project/github repo (for the example).
 In a real project, the .env is on server-side and you can't access at this url.
 
----
-
-### Preview
+## Preview
 
 ![Site complet](/assets/HotTakes.png)
 <br/>
