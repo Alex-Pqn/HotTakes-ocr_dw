@@ -34,6 +34,8 @@ Les utilisateurs pourront aussi se créer un compte, se connecter avec leurs ide
 
 ---
 
+## Project setup
+
 ### Install
 
 ```
@@ -42,7 +44,10 @@ npm install
 
 ### Start
 
-The API should run on `localhost` with default port `3000`. If the server runs on another port for any reason, this is printed to the console when the server starts, e.g. `Listening on port 3001`.
+The API should run on `localhost` with default port `3000`. 
+
+If the server runs on another port for any reason, this is printed to the console when the server starts, e.g. `Listening on port 3001`.
+
 ```
 npm run start
 ```
