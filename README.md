@@ -6,13 +6,13 @@
 
 #### Contexte du projet
 
-Vous êtes développeur backend freelance et vous travaillez depuis quelques années sur des projets web pour des startups ou des grandes entreprises. 
+Vous êtes développeur backend freelance et vous travaillez depuis quelques années sur des projets web pour des startups ou des grandes entreprises.
 
-La semaine dernière, vous avez reçu un mail vous proposant un nouveau projet. 
+La semaine dernière, vous avez reçu un mail vous proposant un nouveau projet.
 
-La marque So Pekocko, qui crée des sauces piquantes, connaît un franc succès, en partie grâce à sa chaîne de vidéos YouTube “La piquante”. L’entreprise souhaite désormais développer une application d’évaluation de ses sauces piquantes, appelée “Piquante”. 
+La marque So Pekocko, qui crée des sauces piquantes, connaît un franc succès, en partie grâce à sa chaîne de vidéos YouTube “La piquante”. L’entreprise souhaite désormais développer une application d’évaluation de ses sauces piquantes, appelée “Piquante”.
 
-Même si l’application deviendra peut-être un magasin en ligne dans un futur proche, Sophie, la product owner de So Pekocko, a décidé que le MVP du projet sera une application web permettant aux utilisateurs d’ajouter leurs sauces préférées et de liker ou disliker les sauces ajoutées par les autres utilisateurs. 
+Même si l’application deviendra peut-être un magasin en ligne dans un futur proche, Sophie, la product owner de So Pekocko, a décidé que le MVP du projet sera une application web permettant aux utilisateurs d’ajouter leurs sauces préférées et de liker ou disliker les sauces ajoutées par les autres utilisateurs.
 
 Lors de votre premier jour, vous discutez avec elle sur la messagerie instantanée interne de l’entreprise.
 
@@ -25,6 +25,7 @@ Quelques heures plus tard, vous trouvez un post-it de Marc, le développeur fron
 Vous trouvez effectivement [la note de cadrage](./assets/Note%20de%20cadrage.pdf) contenant le détail des routes et recommandations liées à l'API. Vous vous lancez immédiatement !
 
 #### Objectifs
+
 - Création d'une API REST avec le framework Express sous Node.js
 - Création d'une base de données MongoDB
 - Opérations de l'API sur la base de données grâce à l'ODM Mongoose
@@ -39,9 +40,10 @@ Vous trouvez effectivement [la note de cadrage](./assets/Note%20de%20cadrage.pdf
 
 ---
 
-### Prerequisites ###
+### Prerequisites
 
 - You will need to have Node and `npm` installed locally on your machine.
+- This project uses a local MongoDB database. [Download MongoDB Community Server](https://www.mongodb.com/try/download/community)
 
 > [!WARNING]  
 > The [frontend](https://github.com/Alex-Pqn/HotTakes-frontend-ocr_dw) must also be installed in order to launch this project.
@@ -58,7 +60,7 @@ npm install
 
 ### Start
 
-The API should run on `localhost` with default port `3000`. 
+The API should run on `localhost` with default port `3000`.
 
 If the server runs on another port for any reason, this is printed to the console when the server starts, e.g. `Listening on port 3001`.
 
