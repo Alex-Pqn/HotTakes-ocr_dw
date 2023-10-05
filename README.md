@@ -6,9 +6,23 @@
 
 #### Contexte du projet
 
-So Pekocko est une entreprise familiale de 10 salariés. Son activité principale est la création de sauces piquantes dont la composition est tenue secrète. Forte de son succès, l’entreprise souhaite se développer et créer une application web dans laquelle les utilisateurs pourront ajouter leurs sauces préférées et liker ou disliker les sauces proposées par les autres.
+Vous êtes développeur backend freelance et vous travaillez depuis quelques années sur des projets web pour des startups ou des grandes entreprises. 
 
-Les utilisateurs pourront aussi se créer un compte, se connecter avec leurs identifiants ainsi que modifier ou supprimer leurs propres sauces.
+La semaine dernière, vous avez reçu un mail vous proposant un nouveau projet. 
+
+La marque So Pekocko, qui crée des sauces piquantes, connaît un franc succès, en partie grâce à sa chaîne de vidéos YouTube “La piquante”. L’entreprise souhaite désormais développer une application d’évaluation de ses sauces piquantes, appelée “Piquante”. 
+
+Même si l’application deviendra peut-être un magasin en ligne dans un futur proche, Sophie, la product owner de So Pekocko, a décidé que le MVP du projet sera une application web permettant aux utilisateurs d’ajouter leurs sauces préférées et de liker ou disliker les sauces ajoutées par les autres utilisateurs. 
+
+Lors de votre premier jour, vous discutez avec elle sur la messagerie instantanée interne de l’entreprise.
+
+![Email](/assets/Email%20HotTakes.png)
+
+La deadline fixée pour la réalisation du projet étant raisonnable, vous décidez d’accepter la mission, sachant que vos connaissances de la stack Node.js, Express et Mongo, et d’OWASP, sont parfaitement adaptées.
+
+Quelques heures plus tard, vous trouvez un post-it de Marc, le développeur frontend, sur votre bureau.
+
+Vous trouvez effectivement [la note de cadrage](./assets/Note%20de%20cadrage.pdf) contenant le détail des routes et recommandations liées à l'API. Vous vous lancez immédiatement !
 
 #### Objectifs
 - Création d'une API REST avec le framework Express sous Node.js
@@ -61,8 +75,8 @@ In a real project, the .env is on server-side and you can't access at this url.
 
 ### Preview
 
-![Site complet](/assets/HotTakes%20P6%20OCR%20DW.png)
+![Site complet](/assets/HotTakes.png)
 <br/>
 <br/>
 <br/>
-![Site complet](/assets/HotTakes%202%20P6%20OCR%20DW.png)
+![Site complet](/assets/HotTakes%202.png)
