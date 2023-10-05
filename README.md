@@ -27,7 +27,10 @@ Les utilisateurs pourront aussi se créer un compte, se connecter avec leurs ide
 
 ### Prerequisites ###
 
-You will need to have Node and `npm` installed locally on your machine.
+- You will need to have Node and `npm` installed locally on your machine.
+
+> [!WARNING]  
+> The [frontend](https://github.com/Alex-Pqn/HotTakes-frontend-ocr_dw) must also be installed in order to launch this project.
 
 ---
 
@@ -43,8 +46,6 @@ The API should run on `localhost` with default port `3000`. If the server runs o
 ```
 npm run start
 ```
-
-### The front-end app can be installed [here](https://github.com/Alex-Pqn/HotTakes-frontend-ocr_dw)
 
 #### .env
 
