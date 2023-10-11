@@ -24,7 +24,7 @@ Quelques heures plus tard, vous trouvez un post-it de Marc, le développeur fron
 
 Vous trouvez effectivement [la note de cadrage](./assets/Note%20de%20cadrage.pdf) contenant le détail des routes et recommandations liées à l'API. Vous vous lancez immédiatement !
 
-#### Objectifs
+#### Objectifs réalisés
 
 - Création d'une API REST avec le framework Express sous Node.js
 - Création d'une base de données MongoDB
